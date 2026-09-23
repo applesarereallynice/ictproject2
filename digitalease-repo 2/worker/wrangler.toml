@@ -1,8 +1,0 @@
-name = "digitalease-assistant-proxy"
-main = "openrouter-worker.js"
-compatibility_date = "2026-01-01"
-
-# After deploying, run:
-#   wrangler secret put OPENROUTER_API_KEY
-# and paste your real OpenRouter key when prompted. It is stored encrypted
-# by Cloudflare and is never written to this file or committed to git.
